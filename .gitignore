@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv-macos-build/
+
+# Local macOS and build files
+.DS_Store
+.build/
+build/
+dist/
+*.spec
+
+# Generated packages and locally captured device data
+*.zip
+*.pcapng
